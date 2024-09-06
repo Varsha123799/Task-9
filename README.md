@@ -35,12 +35,7 @@ Once VSCodium is installed, you can open your HTML file . Upon opening the file,
 ##### Improving the HTML using Emmet:
 Emmet allows you to write concise HTML code that expands into full markup. For example, you can type:  
 ul>li*3  
-And after pressing Tab, it expands into:
-<ul>
-    <li></li>
-    <li></li>
-    <li></li>
-</ul>
+
 ### 3. Open the Python Script in VSCodium
 You will also open the Python script  in VSCodium to edit and enhance the script.
 #### Steps:
