@@ -23,14 +23,14 @@ VSCodium is a free, open-source version of Microsoft's Visual Studio Code. It ca
 
 ### 2. Open the HTML File from Task Three in VSCodium
 
-Once VSCodium is installed, you can open your HTML file from Task Three. Upon opening the file, you should notice that VSCodium highlights the HTML syntax.
+Once VSCodium is installed, you can open your HTML file . Upon opening the file, you should notice that VSCodium highlights the HTML syntax.
 
 #### Steps:
 ##### 1. Launch VSCodium:
       codium
 ##### 2. Open your HTML file:
 
-- Navigate to File > Open and select the HTML file from Task Three.
+- Navigate to File > Open and select the HTML file.
 - Syntax highlighting will be automatically applied.
 ##### Improving the HTML using Emmet:
 Emmet allows you to write concise HTML code that expands into full markup. For example, you can type:  
@@ -41,8 +41,8 @@ And after pressing Tab, it expands into:
     <li></li>
     <li></li>
 </ul>
-### 3. Open the Python Script from Task Three in VSCodium
-You will also open the Python script from Task Three in VSCodium to edit and enhance the script.
+### 3. Open the Python Script in VSCodium
+You will also open the Python script  in VSCodium to edit and enhance the script.
 #### Steps:
 ##### 1. Open your Python script in VSCodium:
 - Navigate to File > Open and select the Python script.
